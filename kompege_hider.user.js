@@ -8,6 +8,7 @@
 // @match        http://kompege.ru/*
 // @match        https://www.kompege.ru/*
 // @match        http://www.kompege.ru/*
+// @include      *kompege.ru/*
 // @grant        none
 // @updateURL    https://raw.githubusercontent.com/logicalman3812/kompege-hider/main/kompege_hider.user.js
 // @downloadURL  https://raw.githubusercontent.com/logicalman3812/kompege-hider/main/kompege_hider.user.js

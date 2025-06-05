@@ -9,8 +9,8 @@
 // @match        https://www.kompege.ru/*
 // @match        http://www.kompege.ru/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/logicalman3812/kompege-hider/main/kompege-hider.user.js
-// @downloadURL  https://raw.githubusercontent.com/ТвойGitHubИмя/kompege-hide-authors/main/kompege-hide-authors.user.js
+// @updateURL    https://raw.githubusercontent.com/logicalman3812/kompege-hider/main/kompege_hider.user.js
+// @downloadURL  https://raw.githubusercontent.com/logicalman3812/kompege-hider/main/kompege_hider.user.js
 // ==/UserScript==
 
 (function () {

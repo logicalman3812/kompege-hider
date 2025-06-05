@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         kompege | hide author's tasks
 // @namespace    https://github.com/logicalman3812/kompege-hider
-// @version      1.0
+// @version      1.1
 // @author       archlinuxgui
 // @description  for hide author's tasks
 // @match        https://kompege.ru/*
